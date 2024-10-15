@@ -1,4 +1,4 @@
-#Double Landing Page Project
+##Double Landing Page Project
 
 Overview
 In this project, we're designing a double landing page that showcases two products: Apple and Samsung. The page features an engaging hover effect, where hovering over a product enlarges that side of the display. This interactive design enhances user experience while visually appealing.
