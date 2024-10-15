@@ -74,7 +74,7 @@ h1 {
 }
 
 .active-left .left {
-    width: 75%;
+    width: 95%;
 }
 
 .active-left .right {
@@ -86,7 +86,7 @@ h1 {
 }
 
 .active-right .right{
-    width: 75%;
+    width: 85%;
 }
 
 .left,
